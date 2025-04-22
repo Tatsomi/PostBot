@@ -22,7 +22,7 @@ made by Tatsomi
 ## Setup
 
 1. Clone the repo:
-   git clone https://github.com/yourusername/ShadowSamaPostBot.git
+   git clone https://github.com/Tatsomi/ShadowSamaPostBot.git
    cd ShadowSamaPostBot
 
 2. Install dependencies:
